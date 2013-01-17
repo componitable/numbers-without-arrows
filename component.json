@@ -1,0 +1,15 @@
+{
+  "name": "numbers-without-arrows",
+  "repo": "componitable/numbers-without-arrows",
+  "description": "Take an input element of type 'number' and remove the up-down arrows",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "ForbesLindesay/to-element-array": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
